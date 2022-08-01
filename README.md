@@ -11,4 +11,4 @@
 
 基本思路：
 1. 先创建一个模版项目
-2. 参考create-react-app
+2. 参考create-react-app :https://github.com/facebook/create-react-app/tree/main/packages/create-react-app
