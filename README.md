@@ -8,3 +8,7 @@
 [options]：
 -t, --template <template name>
 支持 recoil、redux、react-cocos、tsdx。
+
+基本思路：
+1. 先创建一个模版项目
+2. 参考create-react-app
